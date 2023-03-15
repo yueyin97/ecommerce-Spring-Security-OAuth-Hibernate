@@ -8,7 +8,6 @@ This is an ecommerce project built using Spring Security, OAuth, and Hibernate.
 - Shopping cart for users to add and remove products
 - Checkout process with order summary and payment integration
 - User authentication and authorization with Spring Security and OAuth
-- Admin dashboard for managing products, orders, and users
 
 ## Installation
 
